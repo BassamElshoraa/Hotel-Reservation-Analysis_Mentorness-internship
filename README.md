@@ -6,7 +6,7 @@ In this project, the goal was to analyze a hotel reservation dataset using SQL t
 The dataset contained various columns such as Booking_ID, no_of_adults, no_of_children, type_of_meal_plan, room_type_reserved, lead_time, arrival_date, market_segment_type, avg_price_per_room, and booking_status.
 
 ## Tools Used
-- SQL Server Management Studio (SSMS): Used for querying and analyzing the dataset.
+SQL Server Management Studio (SSMS): Used for querying and analyzing the dataset.
 
 ## SQL Queries and Questions
 1. What is the total number of reservations in the dataset?
